@@ -24,6 +24,6 @@
 
 [百毒云盘](https://pan.baidu.com/s/19eahXE_4FOc_LpQ_ASukbA#list/path=%2F)
 
-	嫌大文件下载太慢？去找脚本啊。
+嫌大文件下载太慢？去找脚本啊。
 
 Powered by `Zoomify`
