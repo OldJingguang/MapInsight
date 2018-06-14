@@ -20,6 +20,10 @@
 
 	author: ©USGS，标注@df7c51117（未上线） 【大小约190MB，谨慎打开】
 
+* [USGS卫星图，连州，坪石，坪连铁路，1969](https://toocheer.github.io/maps/USGS_PL/)
+
+	author: ©USGS，标注@df7c51117（未上线） 【大小约132MB，谨慎打开】
+
 ## 部分原始数据下载
 
 [百毒云盘](https://pan.baidu.com/s/19eahXE_4FOc_LpQ_ASukbA#list/path=%2F)
