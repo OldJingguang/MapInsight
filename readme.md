@@ -24,6 +24,10 @@
 
 	author: ©USGS，标注@df7c51117（未上线） 【大小约132MB，谨慎打开】
 
+* [USGS卫星图，坪石，武江沿岸，1969](https://toocheer.github.io/maps/USGS_PS/)
+
+	author: ©USGS，标注@df7c51117（未上线） 【大小约177MB，谨慎打开】
+
 ## 部分原始数据下载
 
 [百毒云盘](https://pan.baidu.com/s/19eahXE_4FOc_LpQ_ASukbA#list/path=%2F)
