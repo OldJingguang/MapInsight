@@ -4,7 +4,8 @@
 
 * [京广概图](https://toocheer.github.io/maps/hengguang/) 
 
-	author: @df7c5117
+	author: @df7c5117 
+	update:20181030
 
 * [梅隆铁路](https://toocheer.github.io/maps/meilong/)
 
@@ -33,7 +34,5 @@
 ## 部分原始数据下载
 
 [百毒云盘](https://pan.baidu.com/s/19eahXE_4FOc_LpQ_ASukbA#list/path=%2F)
-
-嫌大文件下载太慢？去找脚本啊。
 
 Powered by `Zoomify`
