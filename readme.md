@@ -1,9 +1,8 @@
 # MapInsight Project 
 
-* [京广概图](https://oldjingguang.github.io/MapInsight/jingguang/) 
-
-	author: @df7c5117 
-	update:20190201
+* [京广概图](https://pan.baidu.com/s/19eahXE_4FOc_LpQ_ASukbA#list/path=%2Fsharelink1111928565-476117002570867%2F%E4%BA%AC%E5%B9%BF%E6%97%A7%E7%BA%BFUSGS%E5%8D%AB%E6%98%9F%E5%9B%BE&parentPath=%2Fsharelink1111928565-476117002570867) 
+	
+	**The online version is not available now for some proofreading problems. Plz download from the Baidu Netdisk.**
 
 * [USGS卫星图，广州，1969](https://oldjingguang.github.io/MapInsight/USGS_GZ/)
 
